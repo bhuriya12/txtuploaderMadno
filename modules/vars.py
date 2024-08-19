@@ -1,11 +1,11 @@
-#𝐌𝐚𝐝𝐞 𝐁𝐲  : [𝙎𝙢𝙚𝙭𝙮 ᥫ᭡](https://t.me/SmexyOP)
+#𝐌𝐚𝐝𝐞 𝐁𝐲  : [BHURIYA ᥫ᭡](https://t.me/Bhuriyag3)
 
 # Add your details here and then deploy by clicking on HEROKU Deploy button
 
-api_id = "22475741"
+api_id = "26451206"
 
-api_hash = "1a217be71a0225e0a678af286c211f8a"
+api_hash = "32984406271d6f3945bb536671b143a7"
 
-bot_token = "7381636200:AAGSpXuOVESR0gRgsq7_DcmdUHDkGitCpAc"
+bot_token = "7422420660:AAFrbLnbw8WMKbi-IwLi3q_6lxWwqD0SnZY"
 
-# Bot Username = "https://t.me/SmexyTxtLeechingBot"
+# Bot Username = "https://t.me/Bhuriyag3"
